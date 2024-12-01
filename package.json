@@ -1,8 +1,10 @@
 {
   "name": "@arsfr/trdr-tizenbrew",
-  "appName": "TR-DR",
-  "version": "1.0.0",
-  "description": "TR-DR is where you can access Kudus Fatihi: Selahaddin Eyyubi in a ad-free, and fullscreen environment.",
+  "appName": "TRDR",
+  "version": "0.1.1",
+  "type": "module",
+  "packageType": "app",
+  "description": "TRDR is where you can access Kudus Fatihi: Selahaddin Eyyubi in a ad-free, and fullscreen environment (for Tizen).",
   "appPath": "index.html",
   "author": "arsfr",
   "keys": [
@@ -16,6 +18,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/arsfr/trdr-tizenbrew"
-  }
+    "type": "git",
+    "url": "git+https://github.com/arsfr/trdr-tizenbrew.git"
+  },
 }
