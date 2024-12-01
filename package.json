@@ -3,7 +3,7 @@
   "appName": "TR-DR",
   "version": "1.0.0",
   "description": "TR-DR is where you can access Kudus Fatihi: Selahaddin Eyyubi in a ad-free, and fullscreen environment.",
-  "appPath": "https://trdr.rf.gd",
+  "appPath": "index.html",
   "author": "arsfr",
   "keys": [
     "MediaPlayPause",
