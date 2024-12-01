@@ -1,5 +1,5 @@
 {
-  "name": "@arsfr/trdr-tizenbrew",
+  "name": "@arsfr/trdr-tizen",
   "appName": "TRDR",
   "version": "0.1.1",
   "type": "module",
@@ -19,6 +19,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arsfr/trdr-tizenbrew.git"
+    "url": "git+https://github.com/arsfr/trdr-tizen.git"
   },
 }
